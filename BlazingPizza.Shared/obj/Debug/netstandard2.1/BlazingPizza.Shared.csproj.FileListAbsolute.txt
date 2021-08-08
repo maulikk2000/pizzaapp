@@ -1,0 +1,11 @@
+C:\LL_Projects\DPP\Demo projects\PizzaApp\BlazingPizza.Shared\bin\Debug\netstandard2.1\BlazingPizza.Shared.deps.json
+C:\LL_Projects\DPP\Demo projects\PizzaApp\BlazingPizza.Shared\bin\Debug\netstandard2.1\BlazingPizza.Shared.dll
+C:\LL_Projects\DPP\Demo projects\PizzaApp\BlazingPizza.Shared\bin\Debug\netstandard2.1\BlazingPizza.Shared.pdb
+C:\LL_Projects\DPP\Demo projects\PizzaApp\BlazingPizza.Shared\bin\Debug\netstandard2.1\BlazingPizza.ComponentsLibrary.dll
+C:\LL_Projects\DPP\Demo projects\PizzaApp\BlazingPizza.Shared\bin\Debug\netstandard2.1\BlazingPizza.ComponentsLibrary.pdb
+C:\LL_Projects\DPP\Demo projects\PizzaApp\BlazingPizza.Shared\obj\Debug\netstandard2.1\BlazingPizza.Shared.csprojAssemblyReference.cache
+C:\LL_Projects\DPP\Demo projects\PizzaApp\BlazingPizza.Shared\obj\Debug\netstandard2.1\BlazingPizza.Shared.AssemblyInfoInputs.cache
+C:\LL_Projects\DPP\Demo projects\PizzaApp\BlazingPizza.Shared\obj\Debug\netstandard2.1\BlazingPizza.Shared.AssemblyInfo.cs
+C:\LL_Projects\DPP\Demo projects\PizzaApp\BlazingPizza.Shared\obj\Debug\netstandard2.1\BlazingPizza.Shared.csproj.CopyComplete
+C:\LL_Projects\DPP\Demo projects\PizzaApp\BlazingPizza.Shared\obj\Debug\netstandard2.1\BlazingPizza.Shared.dll
+C:\LL_Projects\DPP\Demo projects\PizzaApp\BlazingPizza.Shared\obj\Debug\netstandard2.1\BlazingPizza.Shared.pdb
